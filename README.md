@@ -19,7 +19,7 @@ A classic Ping Pong game built with Python and the Turtle graphics module. Contr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Ping-Pong-Game.git
+   git clone https://github.com/davidmagdysalib/Ping-Pong-Game.git
    ```
 
 2. Navigate to the project folder:
